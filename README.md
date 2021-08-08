@@ -12,7 +12,9 @@ Converted content div elements to article elements
 Repaired issue linking header to Search Engine Optimization section through a href="#search-engine-optimization"Search Engine Optimization by 
 modifying div id="search-engine-optimization" class="search-engine-optimization"
 
-Note: Make all similar CSS elements under the same umbrella to minimize how many different classes/functions we'll need
+Introduced section elements which contain article elements, which contain heading and div elements
+
+Consolidated classes to minimize CSS elements in style sheet.
 
 ## WHEN I view the image elements
 ## THEN I find accessible alt attributes - DONE

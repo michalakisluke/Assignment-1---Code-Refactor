@@ -27,3 +27,5 @@ Changed heading element in footer to h4
 ## WHEN I view the title element
 ## THEN I find a concise, descriptive title - DONE
 Modified title to reflect Horiseon company name and role
+
+feature/aesthetics
